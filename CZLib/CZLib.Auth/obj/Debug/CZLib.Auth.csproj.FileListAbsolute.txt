@@ -1,0 +1,8 @@
+E:\gitProject\czlib\CZLib\CZLib.Auth\obj\Debug\CZLib.Auth.csprojResolveAssemblyReference.cache
+E:\gitProject\czlib\CZLib\CZLib.Auth\bin\Debug\CZLib.Auth.dll
+E:\gitProject\czlib\CZLib\CZLib.Auth\bin\Debug\CZLib.Auth.pdb
+E:\gitProject\czlib\CZLib\CZLib.Auth\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\gitProject\czlib\CZLib\CZLib.Auth\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\gitProject\czlib\CZLib\CZLib.Auth\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\gitProject\czlib\CZLib\CZLib.Auth\obj\Debug\CZLib.Auth.dll
+E:\gitProject\czlib\CZLib\CZLib.Auth\obj\Debug\CZLib.Auth.pdb

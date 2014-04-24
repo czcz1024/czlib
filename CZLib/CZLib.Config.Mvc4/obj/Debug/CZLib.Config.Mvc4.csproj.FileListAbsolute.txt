@@ -1,0 +1,7 @@
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\obj\Debug\CZLib.Config.Mvc4.csprojResolveAssemblyReference.cache
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\bin\Debug\CZLib.Config.Mvc4.dll
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\bin\Debug\CZLib.Config.Mvc4.pdb
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\bin\Debug\CZLib.Config.dll
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\bin\Debug\CZLib.Config.pdb
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\obj\Debug\CZLib.Config.Mvc4.dll
+E:\gitProject\czlib\CZLib\CZLib.Config.Mvc4\obj\Debug\CZLib.Config.Mvc4.pdb
