@@ -1,0 +1,5 @@
+E:\gitProject\czlib\CZLib\CZLib.DB\bin\Debug\CZLib.DB.dll
+E:\gitProject\czlib\CZLib\CZLib.DB\bin\Debug\CZLib.DB.pdb
+E:\gitProject\czlib\CZLib\CZLib.DB\obj\Debug\CZLib.DB.csprojResolveAssemblyReference.cache
+E:\gitProject\czlib\CZLib\CZLib.DB\obj\Debug\CZLib.DB.dll
+E:\gitProject\czlib\CZLib\CZLib.DB\obj\Debug\CZLib.DB.pdb

@@ -1,0 +1,12 @@
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\CZLib.DB.EF.dll.config
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\CZLib.DB.EF.dll
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\CZLib.DB.EF.pdb
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\CZLib.DB.dll
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\EntityFramework.dll
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\CZLib.DB.pdb
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\EntityFramework.xml
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\obj\Debug\CZLib.DB.EF.csprojResolveAssemblyReference.cache
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\obj\Debug\CZLib.DB.EF.dll
+E:\gitProject\czlib\CZLib\CZLib.DB.EF\obj\Debug\CZLib.DB.EF.pdb

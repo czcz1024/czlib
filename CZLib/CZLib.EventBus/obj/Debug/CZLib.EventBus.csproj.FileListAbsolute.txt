@@ -1,0 +1,8 @@
+E:\gitProject\czlib\CZLib\CZLib.EventBus\bin\Debug\CZLib.EventBus.dll
+E:\gitProject\czlib\CZLib\CZLib.EventBus\bin\Debug\CZLib.EventBus.pdb
+E:\gitProject\czlib\CZLib\CZLib.EventBus\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\gitProject\czlib\CZLib\CZLib.EventBus\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\gitProject\czlib\CZLib\CZLib.EventBus\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\gitProject\czlib\CZLib\CZLib.EventBus\obj\Debug\CZLib.EventBus.csprojResolveAssemblyReference.cache
+E:\gitProject\czlib\CZLib\CZLib.EventBus\obj\Debug\CZLib.EventBus.dll
+E:\gitProject\czlib\CZLib\CZLib.EventBus\obj\Debug\CZLib.EventBus.pdb
